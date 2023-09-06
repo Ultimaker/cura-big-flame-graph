@@ -6,7 +6,7 @@ from http.server import BaseHTTPRequestHandler
 import webbrowser
 
 from UM.Extension import Extension
-from PyQt5.QtCore import QObject
+from PyQt6.QtCore import QObject
 import os.path
 from UM import FlameProfiler
 
