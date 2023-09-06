@@ -1,0 +1,7 @@
+{
+    "name": "Big Flame Graph",
+    "author": "Ultimaker",
+    "version": "1.0",
+    "description": "Signal profiler with a Big Flame Graph.",
+    "api": 8
+}
